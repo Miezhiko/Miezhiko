@@ -1,6 +1,6 @@
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Qeenon&theme=buefy&show_icons=true&count_private=true&include_all_commits=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qeenon&theme=buefy&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Qeenon&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qeenon&theme=dracula&layout=compact&hide_border=true">
 </p>
 
 <p align="right">
