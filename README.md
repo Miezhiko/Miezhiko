@@ -11,4 +11,5 @@
 </p>
 
 [![Discord](https://img.shields.io/discord/611822838831251466?label=Discord)](https://discord.gg/GdzjVvD)
+[![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DMiezhiko%26type%3Dpatrons&style=flat)](https://patreon.com/Miezhiko)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Miezhiko.svg?style=social)](https://twitter.com/Miezhiko)
