@@ -1,4 +1,5 @@
 <p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miezhiko" alt="Miezhiko" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Miezhiko&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miezhiko&layout=compact&hide_border=true">
 </p>
