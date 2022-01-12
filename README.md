@@ -1,7 +1,5 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miezhiko&theme=tokyonight&hide_border=true&background=FF2D2D00" alt="Miezhiko" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Miezhiko&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miezhiko&layout=compact&hide_border=false&theme=tokyonight">
 </p>
 
 <p align="right">
