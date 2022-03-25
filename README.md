@@ -12,5 +12,3 @@
 [![Discord](https://img.shields.io/discord/611822838831251466?label=Discord)](https://discord.gg/GdzjVvD)
 [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DMiezhiko%26type%3Dpatrons&style=flat)](https://patreon.com/Miezhiko)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Miezhiko.svg?style=social)](https://twitter.com/Miezhiko)
-
-[![Metrics](https://metrics.lecoq.io/Miezhiko?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.attachments=true&tweets.limit=1&tweets.user=Miezhiko&config.timezone=Europe%2FMoscow)](#)
