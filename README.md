@@ -1,7 +1,5 @@
 <p>
-  <a href="https://raw.githubusercontent.com/Miezhiko/Miezhiko/master/github-metrics.svg">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miezhiko&theme=tokyonight&hide_border=true&background=FF2D2D00" alt="Miezhiko" />
-  </a>
 </p>
 
 <p align="right">
