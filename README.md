@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miezhiko&theme=tokyonight&hide_border=true&background=FF2D2D00" alt="Miezhiko" />
+  <img src="https://i.imgur.com/Ya6B6md.jpg" alt="Miezhiko" />
 </p>
 
 <p align="right">
