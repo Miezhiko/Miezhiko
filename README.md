@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.imgur.com/Ya6B6md.jpg" alt="Miezhiko" />
+  <img src="github-metrics.svg" alt="Miezhiko" />
 </p>
 
 <p align="right">
