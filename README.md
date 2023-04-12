@@ -1,12 +1,10 @@
 <p>
-  <img src="github-metrics.svg" alt="Miezhiko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Miezhiko&theme=transparent&count_private=true&show_icons=true&hide_border=true&hide_rank=true&hide_title=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miezhiko&theme=transparent&hide_border=true&hide_title=true&hide=c%2B%2B,GLSL,LSL,CMake,TypeScript,JavaScript,HTML,CSS,Objective-c%2B%2B,Shell,Dhall"/>
 </p>
 
-<p align="right">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<p>
+  <img src="github-metrics.svg" alt="Miezhiko" />
 </p>
 
 [![Discord](https://img.shields.io/discord/611822838831251466?label=Discord)](https://discord.gg/GdzjVvD)
