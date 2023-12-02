@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.15mb of code in 9724 edited files across 2916 commits</small>
+                <small>estimation from 7.15mb of code in 9719 edited files across 2913 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.4228273433203" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="351.4228273433203" y="0" width="304.49724340879624" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="655.9200707521165" y="0" width="112.24291113189646" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="768.162981884013" y="0" width="77.37962471752942" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="845.5426066015424" y="0" width="34.733484833302555" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="880.276091434845" y="0" width="28.942052769845496" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="909.2181442046905" y="0" width="6.473429919311354" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="915.6915741240018" y="0" width="4.308425875998136" height="8" fill="#dfafff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.1067266967801" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="351.1067266967801" y="0" width="304.6665287409201" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="655.7732554377003" y="0" width="112.30531261138707" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="768.0785680490873" y="0" width="77.4226439426734" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="845.5012119917607" y="0" width="34.75279492442194" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="880.2540069161827" y="0" width="28.958143112604077" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="909.2121500287867" y="0" width="6.477028824580917" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="915.6891788533676" y="0" width="4.310821146632393" height="8" fill="#dfafff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>38.2%</div>
+                                <div>38.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -65,7 +65,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>33.1%</div>
+                                <div>33.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,7 +89,7 @@
                                 Haskell
                             </div>
                             <small>
-                                <div>12.2%</div>
+                                <div>12.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -113,7 +113,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>8.41%</div>
+                                <div>8.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1159,7 +1159,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2023, 01:15:08 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2023, 02:16:28 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
