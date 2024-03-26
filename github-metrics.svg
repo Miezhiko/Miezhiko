@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.69mb of code in 10854 edited files across 3180 commits</small>
+                <small>estimation from 7.69mb of code in 10860 edited files across 3184 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.7502557214199" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="344.7502557214199" y="0" width="304.3502614305492" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="649.1005171519691" y="0" width="124.92014038114782" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="774.020657533117" y="0" width="73.23419958799116" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="847.2548571211081" y="0" width="33.54182016559647" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="880.7966772867046" y="0" width="28.74054385800761" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="909.5372211447122" y="0" width="6.277200433259485" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="915.8144215779718" y="0" width="4.1855784220283585" height="8" fill="#dfafff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.84931128043866" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="344.84931128043866" y="0" width="304.2978536101488" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="649.1471648905875" y="0" width="124.8986296643483" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="774.0457945549358" y="0" width="73.22158897033921" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="847.267383525275" y="0" width="33.53604440684115" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="880.8034279321162" y="0" width="28.73559485860922" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="909.5390227907253" y="0" width="6.276119526046271" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="915.8151423167717" y="0" width="4.184857683228325" height="8" fill="#dfafff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>37.47%</div>
+                                <div>37.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -183,7 +183,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.83
+                            Average per day at ~2.84
                         </div>
                     </section>
                 </div>
@@ -1149,10 +1149,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3333333333333335 0,1.3333333333333333 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3333333333333333 1.7,2.3333333333333335 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.666666666666668)">
+                            <g transform="translate(-6.8, 8.333333333333332)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.333333333333333 0,2.333333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.333333333333333 1.7,3.333333333333333 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.666666666666667 0,2.666666666666667 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.666666666666667 1.7,3.666666666666667 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.666666666666666)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1182,7 +1182,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2024, 09:22:04 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2024, 10:15:02 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
