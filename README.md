@@ -1,5 +1,7 @@
 <p>
-  <img src="github-metrics.svg"/>
+  <a href="#">
+    <img src="github-metrics.svg"/>
+  </a>
 </p>
 
 <br/>
