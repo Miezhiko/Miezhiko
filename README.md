@@ -14,11 +14,11 @@
 
 ### ⚡ Donate with Solana (SOL)
 
-<div align="center">
 **Solana Address:**
 ```
 CfjFkCJAri79UHdCA1yP37RmJbZNM4GzcgYqcNtQ7Scn
 ```
+<div align="center">
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=CfjFkCJAri79UHdCA1yP37RmJbZNM4GzcgYqcNtQ7Scn" alt="Solana Donation QR Code" width="200">
 
 *Scan QR code or copy address above*
