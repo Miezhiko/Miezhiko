@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/twitter/follow/Miezhiko.svg?style=social"/>
 </a>
 
-<a href="https://twitter.com/Miezhiko">
-  <img src="https://img.shields.io/twitter/follow/Miezhiko.svg?style=social"/>
-</a>
-
 <div align="center">
 <a href="#">
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
